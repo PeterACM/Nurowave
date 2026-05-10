@@ -11,7 +11,7 @@ export const Logo: React.FC<LogoProps> = ({ className = '', light = false }) => 
       <img 
         src="/logo.png" 
         alt="Neurowave Inc." 
-        className={`h-14 md:h-18 w-auto object-contain ${light ? 'brightness-0 invert' : ''}`}
+        className={`h-16 md:h-22 w-auto object-contain ${light ? 'brightness-0 invert' : ''}`}
       />
     </div>
   );
