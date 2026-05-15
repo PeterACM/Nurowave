@@ -28,7 +28,7 @@ export const Process: React.FC = () => {
     { 
       title: 'CPAP therapy', 
       icon: <Moon />, 
-      description: 'If CPAP therapy is involved the patient will be informed and may be required to sleep an additional night with a CPAP machine. The CPAP machine distribution company Health sleep will be contacted to assist the patient.',
+      description: 'If CPAP therapy is involved the patient will be informed and may be required to sleep an additional night with a CPAP machine. The CPAP machine distribution company Healthy Sleep will be contacted to assist the patient.',
     },
   ];
 
