@@ -155,13 +155,6 @@ export const Home: React.FC = () => {
                     className="w-full h-[500px] object-cover"
                   />
                 </div>
-                <div className="absolute -bottom-8 -left-8 glass-panel p-6 rounded-2xl max-w-xs border border-white/20 z-20">
-                  <div className="flex items-start gap-3">
-                    <Info className="w-6 h-6 text-accent mt-1" />
-                    <p className="text-sm font-sans italic text-white/80">
-                      "Live Setup: High-Density PSG Array monitored 24/7 by our clinical staff."
-                    </p>
-                  </div>
                 </div>
               </div>
             </div>
