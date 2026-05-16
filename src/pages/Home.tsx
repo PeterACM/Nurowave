@@ -154,6 +154,8 @@ export const Home: React.FC = () => {
                     alt="Sleep Study"
                     className="w-full h-[500px] object-cover"
                   />
+                  <div className="absolute -bottom-8 -left-8 glass-panel p-6 rounded-2xl max-w-xs border border-white/20 z-20">
+                  
                 </div>
                 </div>
               </div>
