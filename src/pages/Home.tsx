@@ -17,7 +17,7 @@ export const Home: React.FC = () => {
     { title: 'Obstructive Sleep Apnea (OSA)', description: 'Identification of repetitive airway collapse through advanced pressure sensors and effort monitoring.' },
     { title: 'Central Sleep Apnea (CSA)', description: 'Distinguishing between mechanical obstruction' },
     { title: 'Restless Leg Syndrome (RLS)', description: 'Quantifying periodic limb movements during sleep using synchronized EMG and video telemetry.' },
-    { title: 'Nocturnal Seizures', description: 'Differential diagnosis of parasomnias vs. epilepsy through high-density EEG mapping.' },
+    { title: 'Indications', description: 'Full Polysomnography, Sleep Screening, CPAP, Bi-PAP and Multiple Sleep Latency Test (MSLT)' },
   ];
 
   return (
