@@ -27,8 +27,15 @@ export const Footer: React.FC = () => {
               <span className="text-sky-400 font-bold uppercase tracking-widest text-[10px]">Email:</span>
               <a href="mailto:oceanneuro@gmail.com" className="hover:text-sky-400 transition-colors">oceanneuro@gmail.com</a>
             </div>
+            <div className="flex items-start gap-3">
+              <span className="text-sky-400 font-bold uppercase tracking-widest text-[10px] mt-1">Location:</span>
+              <span className="text-slate-400 leading-relaxed text-sm">
+                32 Inanda Road, Hillcrest, 3610,<br />
+                KwaZulu-Natal, South Africa
+              </span>
+            </div>
           </div>
-          <p className="text-xs opacity-50 leading-relaxed pt-4">
+          <p className="text-xs opacity-50 leading-relaxed pt-2">
             © {new Date().getFullYear()} Neurowave Inc. Clinical Neurophysiology. All rights reserved. Precision in Neurophysiology.
           </p>
         </div>

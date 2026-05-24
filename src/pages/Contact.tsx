@@ -48,7 +48,10 @@ export const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-1">Location</p>
-                    <p className="font-serif text-2xl text-slate-900">32 Inanda Road, Hillcrest</p>
+                    <p className="font-serif text-2xl text-slate-900 leading-snug">
+                      32 Inanda Road, Hillcrest, 3610<br />
+                      <span className="text-sm font-sans text-slate-500 font-semibold uppercase tracking-wider">KwaZulu-Natal, South Africa</span>
+                    </p>
                   </div>
                 </div>
               </div>

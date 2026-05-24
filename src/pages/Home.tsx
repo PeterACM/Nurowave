@@ -17,7 +17,7 @@ export const Home: React.FC = () => {
     { title: 'Obstructive Sleep Apnea (OSA)', description: 'Identification of repetitive airway collapse through advanced pressure sensors and effort monitoring.' },
     { title: 'Central Sleep Apnea (CSA)', description: 'Distinguishing between mechanical obstruction' },
     { title: 'Restless Leg Syndrome (RLS)', description: 'Quantifying periodic limb movements during sleep using synchronized EMG and video telemetry.' },
-    { title: 'Indications', description: 'Full Polysomnography, Sleep Screening, CPAP, Bi-PAP and Multiple Sleep Latency Test (MSLT)' },
+    { title: 'Indications', description: 'Full Polysomnography, Sleep Screening, CPAP, Bi-PAP and Multiple Sleep Latency Test ( MSLT)' },
   ];
 
   return (
@@ -154,9 +154,14 @@ export const Home: React.FC = () => {
                     alt="Sleep Study"
                     className="w-full h-[500px] object-cover"
                   />
-                  <div className="absolute -bottom-8 -left-8 glass-panel p-6 rounded-2xl max-w-xs border border-white/20 z-20">
-                  
                 </div>
+                <div className="absolute -bottom-8 -left-8 glass-panel p-6 rounded-2xl max-w-xs border border-white/20 z-20">
+                  <div className="flex items-start gap-3">
+                    <Info className="w-6 h-6 text-accent mt-1" />
+                    <p className="text-sm font-sans italic text-white/80">
+                      "Live Setup: High-Density PSG Array monitored 24/7 by our clinical staff."
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>

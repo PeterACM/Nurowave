@@ -1,0 +1,46 @@
+# Neurowave Inc.
+
+Clinical Neurophysiology & Advanced Sleep Diagnostics Clinic located in Hillcrest, KwaZulu-Natal, South Africa.
+
+## About the Company
+Neurowave Inc. combines clinical rigor with empathetic care, providing advanced neurodiagnostic services that illuminate the path to neurological wellness.
+
+- **Location**: 32 Inanda Road, Hillcrest, 3610, KwaZulu-Natal, South Africa
+- **Lead Neurophysiologist**: Mr. Ocean Lesley Naidoo [BHSc-CT (Neurophysiology), Practice No: 1250302, KTG: 0012459]
+- **Phone**: 082 898 0512
+- **Email**: oceanneuro@gmail.com
+- **Website**: https://neurowave.co.za/ (Interactive diagnostic insights, academic journals, patient journey, and contact details)
+
+## Clinical Services & Parameters Monitored
+We specialize in full-polysomnography (PSG) sleep studies, sleep screenings, CPAP & Bi-PAP therapy, and Multiple Sleep Latency Tests (MSLT). We monitor the following parameters with clinical excellence:
+
+### EEG (Electroencephalography)
+Monitoring cortical electrical activity to identify sleep stages and seizure activity.
+
+### EOG (Electrooculography)
+Tracking vertical and horizontal eye movements to detect REM sleep onset.
+
+### EMG (Electromyography)
+Measuring muscle tension in the chin and limbs to identify sleep-related movement disorders.
+
+### EKG (Electrocardiography)
+Continuously monitoring heart rate and rhythm.
+
+### Flow (Respiratory Flux)
+Precise measurement of airflow through sleep.
+
+### SpO2 (Oxygen Saturation)
+Constant pulse oximetry to track blood oxygen levels and identify desaturations.
+
+## Diagnostic Indications & Pathological Focus
+- **Obstructive Sleep Apnea (OSA)**: Identification of repetitive airway collapse through advanced pressure sensors and effort monitoring.
+- **Central Sleep Apnea (CSA)**: Distinguishing between mechanical obstruction and neurological command decline.
+- **Restless Leg Syndrome (RLS)**: Quantifying periodic limb movements during sleep using synchronized EMG and video telemetry.
+- **Full Diagnostics**: Complete clinical Polysomnography, Sleep Screening, CPAP trials, Bi-PAP titration, and Multiple Sleep Latency Test (MSLT) for clinical validation of hypersomnolence.
+
+## The Patient Journey
+1. **Referral Entry**: Patients enter our pathway through clinical referral from general medical practitioners, neurologists, psychiatrists, or somnologists.
+2. **Patient Attire**: The patient comes prepared with comfortable clothing suitable for a sleep study, informed about the mild discomfort associated with high-density sensors.
+3. **Data Acquisition**: In-laboratory overnight video-polysomnography (vPSG) recording and real-time biometric analysis.
+4. **Data Interpretation**: Clinical data interpretation and synthesis of deep-stage wave graphs into structured medical reports.
+5. **CPAP Therapy Coordination**: Continuous Positive Airway Pressure trials and titrations managed in tandem with the "Healthy Sleep" CPAP supply partner ecosystem if sleep apnea is indicated.
