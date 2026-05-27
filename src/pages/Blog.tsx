@@ -74,34 +74,7 @@ export const Blog: React.FC = () => {
           ))}
         </div>
 
-        {/* Blog footer CTA */}
-        <div className="mt-32">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            className="bg-slate-900 rounded-[64px] p-12 md:p-24 text-center relative overflow-hidden"
-          >
-            <div className="relative z-10">
-              <span className="text-accent font-bold uppercase tracking-[0.2em] text-xs mb-6 block">Stay Informed</span>
-              <h2 className="font-serif text-4xl md:text-5xl text-white mb-8">Subscribe to Clinical Updates</h2>
-              <div className="max-w-md mx-auto flex flex-col md:flex-row gap-4">
-                <input 
-                  type="email" 
-                  placeholder="name@university.ac.za" 
-                  className="flex-1 bg-white/10 border border-white/20 rounded-2xl px-6 py-4 text-white focus:outline-none focus:border-accent transition-colors"
-                />
-                <button className="bg-accent text-slate-950 font-bold px-8 py-4 rounded-2xl hover:bg-white transition-all">
-                  Join Register
-                </button>
-              </div>
-              <p className="mt-6 text-white/40 text-xs">By subscribing you agree to receive academic newsletters.</p>
-            </div>
-            {/* Artistic flair */}
-            <div className="absolute top-0 right-0 w-64 h-64 bg-primary/20 blur-[100px] rounded-full -mr-32 -mt-32"></div>
-            <div className="absolute bottom-0 left-0 w-64 h-64 bg-tertiary/20 blur-[100px] rounded-full -ml-32 -mb-32"></div>
-          </motion.div>
-        </div>
+
       </div>
     </div>
   );
