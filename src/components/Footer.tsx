@@ -38,6 +38,11 @@ export const Footer: React.FC = () => {
           <p className="text-xs opacity-50 leading-relaxed pt-2">
             © {new Date().getFullYear()} Neurowave Inc. Clinical Neurophysiology. All rights reserved. Precision in Neurophysiology.
           </p>
+          <p className="text-xs opacity-50 leading-relaxed mt-2">
+            <a href="https://signalmerge.co.za/about" target="_blank" rel="noopener noreferrer" className="hover:text-sky-400 underline underline-offset-4 decoration-sky-400/30 transition-colors">
+              Website Developed by Peter
+            </a>
+          </p>
         </div>
       </div>
       <div className="w-full h-1 bg-gradient-to-r from-transparent via-sky-400/20 to-transparent"></div>
